@@ -1,0 +1,1 @@
+document.getElementById("welcome").textContent = "Please write your name and lastname : "
